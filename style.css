@@ -7,6 +7,19 @@ body {
     height: 100vh;
     margin: 0;
 }
+.main-container {
+width: 300px;
+background-color: #fff;
+padding: 20px;
+border-radius: 8px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.eerste-container{
+background-color: aqua;
+padding: 10px;
+border-radius: 8px;
+text-align: center;
+}
 
 .login-container {
     background-color: #fff;
